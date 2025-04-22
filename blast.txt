@@ -1,6 +1,6 @@
 Struct (ordered)
 realm string geo-avvir-hexagon
 code string
-redirectUri string http://localhost:7164/
+branch ONE
 init another commit
 
