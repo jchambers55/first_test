@@ -1,6 +1,7 @@
 Struct eruct and fructify
 realm string geo-avvir-hexagon
-code academy
-init boolean soup
+code string
+branch ONE
+init another commit
 
 
