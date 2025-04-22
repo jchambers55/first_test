@@ -1,7 +1,6 @@
 Struct eruct and fructify
 realm string geo-avvir-hexagon
-code string
-redirectUri string http://localhost:7164/
+code academy
 init boolean soup
 
 
